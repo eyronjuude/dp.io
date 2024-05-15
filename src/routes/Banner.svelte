@@ -1,4 +1,4 @@
-<script lang="ts">
+<script>
     import { AppBar } from '@skeletonlabs/skeleton';
     import { Avatar } from '@skeletonlabs/skeleton';
 </script>
