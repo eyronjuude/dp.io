@@ -1,4 +1,4 @@
-<a href="/" class="btn variant-filled h-20 w-min">
+<a href="/create" class="btn variant-filled h-20 w-min">
     <!-- Facebook -->
     <span class="[&>svg]:h-5 [&>svg]:w-5">
     <svg

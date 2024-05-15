@@ -9,6 +9,6 @@
             :)
         </Avatar>
     </svelte:fragment>
-	dp.io
+	<a href="/">dp.io</a>
 	<svelte:fragment slot="trail">About dp.io</svelte:fragment>
 </AppBar>
