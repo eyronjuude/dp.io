@@ -1,5 +1,6 @@
 <script>
     import { Avatar } from '@skeletonlabs/skeleton';
+	import Events from './dashboard/Events.svelte';
 </script>
 
 <Avatar
@@ -14,3 +15,7 @@
 <hr class="h-0.5 border-t-0 bg-neutral-100 dark:bg-white/10" />
 
 <h1 class="text-2xl md:text-4xl">My Events</h1>
+
+<div class="flex flex-col gap-4">
+    <Events />
+</div>
