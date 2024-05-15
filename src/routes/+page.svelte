@@ -10,7 +10,7 @@
 </div>
 
 {:else}
-<div class="flex flex-col p-8 gap-4 justify-center">
+<div class="flex flex-col p-8 gap-4">
 	<Dashboard />
 </div>
 
