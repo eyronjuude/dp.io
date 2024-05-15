@@ -25,7 +25,7 @@
 	import Banner from './Banner.svelte'
 </script>
 
-<div class="grid grid-cols-[auto,_minmax(0,_1fr)] grid-rows-[auto,_minmax(0,_1fr)] h-screen">
+<div class="grid grid-cols-[auto,_minmax(auto,_1fr)] grid-rows-[auto,_minmax(auto,_1fr)] h-screen">
 	<div class="col-span-2"><Banner /></div>
 	<div></div>
 	<slot />
