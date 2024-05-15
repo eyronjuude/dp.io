@@ -1,7 +1,3 @@
-<script lang="ts">
-    import { AppBar } from '@skeletonlabs/skeleton';
-</script>
-
 <a href="/" class="btn variant-filled h-20 w-min">
     <!-- Facebook -->
     <span class="[&>svg]:h-5 [&>svg]:w-5">
