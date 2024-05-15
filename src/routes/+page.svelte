@@ -1,6 +1,6 @@
 <script>
-	import FacebookLogin from "./FacebookLogin.svelte";
-	import Dashboard from "./Dashboard.svelte";
+	import FacebookLogin from "$lib/components/FacebookLogin.svelte";
+	import Dashboard from "$lib/components/Dashboard.svelte";
 	let login = false;
 </script>
 

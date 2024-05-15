@@ -22,7 +22,7 @@
 	storePopup.set({ computePosition, autoUpdate, flip, shift, offset, arrow });
 
 	// Svelte Components
-	import Banner from './Banner.svelte'
+	import Banner from '$lib/components/Banner.svelte'
 </script>
 
 <div class="grid grid-cols-[auto,_minmax(auto,_1fr)] grid-rows-[auto,_minmax(auto,_1fr)] h-screen">
